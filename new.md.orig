@@ -1,0 +1,11 @@
+new
+<<<<<<< HEAD
+another line
+hello
+what is going on
+=======
+hello "adding"
+>>>>>>> new_branch
+this is going to conflict
+
+line5 in new branch
